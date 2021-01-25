@@ -10,6 +10,7 @@ Welcome to rebornbotdocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+We are learning how to do this but this will get better with time
 
 
 Indices and tables
