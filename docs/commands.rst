@@ -1,10 +1,11 @@
 .. _commands:
+
+
 Reborn Bot Commands
 ===========================
 
 This is a list of all commands and how to use them
 
-::
     r!help - Shows the help dialouge
     r!meme - Shows the best of memes
 
