@@ -21,9 +21,6 @@ project = 'rebornbotdocs'
 copyright = '2021, Smirf123'
 author = 'Smirf123'
 
-# The full version, including alpha/beta/rc tags
-release = '1.0'
-
 
 # -- General configuration ---------------------------------------------------
 
