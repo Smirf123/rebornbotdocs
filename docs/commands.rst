@@ -1,3 +1,4 @@
+.. _commands:
 Reborn Bot Commands
 ===========================
 

@@ -17,6 +17,7 @@ Pages
 =====
 
 * :ref:`faq`
+* :ref:`commands`
 
 
 Credits for Reborn Bot

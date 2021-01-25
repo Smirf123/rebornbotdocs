@@ -1,4 +1,4 @@
-
+.. _faq:
 
 Frequently Asked Questions
 ===========================
@@ -8,7 +8,7 @@ new question or submit one via pull requests.
 
 .. contents:: Questions
     :local:
-
+ 
 It didn't reply, what should I do?
 -----------------------------------
 
