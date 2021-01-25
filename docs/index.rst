@@ -17,5 +17,10 @@ Pages
 =====
 
 * :ref:`faq`
-* :ref:`modindex`
-* :ref:`search`
+
+
+Credits for Reborn Bot
+======================
+
+Main Developer: Smirf123#5911
+Advertiser/Owner: Mr.Costi#7847
