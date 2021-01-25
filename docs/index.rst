@@ -13,9 +13,9 @@ Welcome to Reborn Bot's documentation!
 We are learning how to do this but this will get better with time
 
 
-Indices and tables
-==================
+Pages
+=====
 
-* :ref:`genindex`
+* :ref:`faq`
 * :ref:`modindex`
 * :ref:`search`
