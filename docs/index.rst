@@ -12,6 +12,9 @@ Welcome to Reborn Bot's documentation!
 
 We are learning how to do this but this will get better with time
 
+Want to sponsor Reborn Bot?
+DM Smirf123#5911 on Discord
+
 
 Pages
 =====
